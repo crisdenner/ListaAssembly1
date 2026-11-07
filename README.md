@@ -1,5 +1,5 @@
 # ListaAssembly1
-Autor: Cristiano Denner Exercícios de introdução ao Python da matéria de Sistemas Operacionais da Fatec Zona Leste
+Autor: Cristiano Denner Exercícios de introdução a Assembly MIPS.Matéria: Arquitetura e Organização de Computadores da Fatec Zona Leste
 
 Lista 1 – Assembly
 
